@@ -1,0 +1,25 @@
+html{
+  height: 100%;
+  font-family: Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+}
+body{
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+#root{
+  height: 100%;
+}
+.to-do-Tag{
+  border-left: 4px solid #5fba7d
+}
+.re-open-Tag{
+  border-left: 4px solid #f74f57
+}
+.in-dev-Tag{
+  border-left: 4px solid #ffcc01
+}
+.dev-sign-Tag{
+  border-left: 4px solid red
+}
